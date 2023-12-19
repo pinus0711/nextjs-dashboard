@@ -1,0 +1,10 @@
+/* 
+#1-0.styling:전역으로 적용할 css작성 파일
+reset.css 등 여러 페이지에 걸친 스타일 적용할 때 사용
+전역 스타일링은 root
+*/
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
